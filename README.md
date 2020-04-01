@@ -1,4 +1,4 @@
-# Project 1 - Exploring Weather Trends
+#  Exploring Weather Trends
 
 # <b>Summary
 
